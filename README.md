@@ -1,5 +1,5 @@
 # Employee Tracker
-### 2020
+###  ©2020
 Node app that connects to a database and allows the user to view/add/edit employees/roles/departments.
 
 ## Installation Instructions
